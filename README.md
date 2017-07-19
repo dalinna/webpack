@@ -111,7 +111,7 @@ npm install --save-dev webpack-dev-server
 <br/>
 有什么不清楚的可加Q:307770696
 <br/>
-愿我们有能力不像生活缴械投降，或者在那条路上    ~Lin
+愿我们有能力不向生活缴械投降    ~Lin
 
 
 
