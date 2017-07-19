@@ -1,8 +1,8 @@
 # webpack
-### 第一个次用webpack进行打包，分享给初学打包的你，希望共同进步
+第一个次用webpack进行打包，分享给初学打包的你，希望共同进步
 
 
-正式使用Webpack前的准备
+### 正式使用Webpack前的准备
 
 新建一个空的练习文件夹（此处命名为webpackageExercise）,在该文件夹中创建一个package.json文件，这是一个标准的npm说明文件，包括当前项目的依赖模块，自定义的脚本任务等等。
 在终端中使用npm init命令可以自动创建这个package.json文件
