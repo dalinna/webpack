@@ -102,7 +102,7 @@ npm install --save-dev webpack-dev-server
 
 
 
-愿我们有能力不像生活缴械投降，或者在那条路上  ~Lin
+愿我们有能力不像生活缴械投降，或者在那条路上    ~Lin
 
 
 
